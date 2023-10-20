@@ -1,5 +1,5 @@
 _[English](https://github.com/LiteAVSDK/.github/blob/main/profile//README.md) | 简体中文_
-![Tencent Cloud Media Service Scene](https://github.com/LiteAVSDK/.github/blob/main/profile/doc/images/scene.jpg)
+![Tencent Cloud Media Service Scene](https://github.com/LiteAVSDK/.github/blob/main/profile/doc/images/scene.png)
 
 ## 腾讯云视立方
 

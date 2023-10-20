@@ -1,14 +1,14 @@
 _[简体中文](https://github.com/LiteAVSDK/.github/blob/main/profile/README.zh.md) | English_
-![Tencent Cloud Media Service Scene](https://github.com/LiteAVSDK/.github/blob/main/profile/doc/images/scene.jpg)
+![Tencent Cloud Media Service Scene](https://github.com/LiteAVSDK/.github/blob/main/profile/doc/images/scene.png)
 
 ## Tencent Cloud Media Services 
 
-Tencent Cloud provides a one-stop audio/video solution covering video calls， live streaming, real-time communication, video-on-demand,short video, instant messaging, media processing servic, and more. 
+Tencent Cloud provides a one-stop audio/video solution covering video calls, live streaming, real-time communication, video-on-demand,short video, instant messaging, media processing service, and more.
 
 Industry-leading technologies provide a competitive edge in entertainment, social networking, education, gaming, live streaming, and other applications
 
-- Visit [our website](https://www.tencentcloud.com/products/media/) to learn about our products
-- Read [our documentation](https://www.tencentcloud.com/document/product/647/39386) to learn how to implement our features
+- Visit [our website](https://trtc.io/) and [media services solution](https://www.tencentcloud.com/products/media)  to learn more about our products.
+- Read [our documentation](https://trtc.io/document) to learn how to implement our features.
 
 ### Our API-Example for multiple platforms
 
